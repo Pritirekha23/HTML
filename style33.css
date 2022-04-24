@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+aside{
+ background-image: linear-gradient(90deg,rgb(41, 236, 51),rgb(207, 118, 188));
+
+float: left;
+height: 100vh;
+
+}
+a{
+    color: azure;
+   display: block;
+   padding: 20px;
+   text-decoration: none;
+}
+img{
+    padding: 10px;
+}
+a:hover{
+    background-color:rgb(146, 35, 54);
+    border-radius: 30px;
+}

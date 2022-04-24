@@ -1,0 +1,14 @@
+table{
+    width:30px;
+    padding:10px;
+    color: black;
+    /* display: inline-block; */
+    border-radius:20px;
+    font-style:italic;
+    font-weight: bold;
+    text-align: center;
+    background-image: linear-gradient(90deg,rgb(71, 201, 20),rgb(201, 114, 154));
+}
+th{
+    color: rgb(17, 5, 87);
+}

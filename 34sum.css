@@ -1,0 +1,10 @@
+summary{
+    background-color: blue;
+}
+p{
+    background-color: aqua;
+}
+details{
+    padding: 15px;
+    background-color: aquamarine;
+}
